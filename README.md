@@ -1,6 +1,10 @@
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B7B7B&random=false&width=435&lines=Hi!+I'm+Hung+%F0%9F%91%8B;I'm+a+CS+student+at+University+of+South+Florida;Nice+to+know+you!" alt="Typing SVG" /></a>
 
-# <a href="https://github.com/Hungruong"><img src="https://emoji.gg/emoji/4104_wolf" width="64px" height="64px" alt="Wolf"></a> Hi, I’m Hung Truong!
+
+
+# <a href="https://github.com/Hungruong"><img src="https://cdn3.emoji.gg/emojis/4104_wolf.png" width="64px" height="64px" alt="Wolf"></a> Hi, I’m Hung Truong!
 
 🙋‍♂️ Hi there, I’m Hung Truong, a Vietnamese sophomore currently studying at University of South Florida, Tampa, Florida, United States. Thanks for visiting my profile!
 
