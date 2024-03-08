@@ -193,28 +193,25 @@
 
 <hr>
 
-## Contact me 🐡🐡🐡
+## Contact me 🦉🦉🦉
 
 <br>
 <div align="center">
-  <a href="https://www.facebook.com/hudson.811/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/hungtruongkhanh04/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hudson-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/son-hudson-nguyen711/" target="_blank"  rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/hungtk04/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hudson-linkedin" />
   </a>
-  <a href="https://www.instagram.com/_hudson.ng/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hudson-instagram" />
-  </a>
-  <a href="mailto:hungson.nguyen811@gmail.com" target="top" rel="noopener noreferrer">
+  <a href="mailto:hungkhanh.truong112@gmail.com" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="hudson-email"/>
   </a>
 </div>
 
 <br>
 <div align="center">
-<a href="https://github.com/Hudson-Pufferfish">
-<img src="https://emoji.gg/assets/emoji/8519-babykoala.png" width="64px" height="64px" alt="BabyKoala">
+<a href="https://github.com/Hungruong">
+<img src="https://cdn3.emoji.gg/emojis/4104_wolf.png" width="64px" height="64px" alt="BabyKoala">
 </a>
 
 </div>
