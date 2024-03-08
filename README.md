@@ -172,20 +172,20 @@
 <div align=center>
 
   <a href="#" title="HudsonPufferfishdev">
-    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=Hudson-Pufferfish&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=Hungruong&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
   </a>
   <br>
   <br>
   &nbsp;
   <a href="#" title="HudsonPufferfishdev">
-    <img width="315" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Hudson-Pufferfish&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Hungruong&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
   </a>
   <br>
   <br>
   &nbsp;
  
    <a href="#" title="HudsonPufferfishdev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Pufferfish&hide=c%23,powershell,Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=292D3E&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungruong&hide=c%23,powershell,Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=292D3E&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
